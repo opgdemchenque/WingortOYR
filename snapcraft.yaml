@@ -4,7 +4,6 @@ adopt-info: starship
 summary: The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 description: |
   Starship is the minimal, blazing fast, and extremely customizable prompt 
-  for any shell! The prompt shows information you need while you're working,
   while staying sleek and out of the way.
 
   ## Prerequisites
@@ -31,8 +30,6 @@ description: |
   starship init fish | source
 
   ### Zsh
-
-  Add the following to the end of ~/.zshrc:
 
   eval "$(starship init zsh)"
 
